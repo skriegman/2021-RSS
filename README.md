@@ -1,5 +1,5 @@
 # Scale invariant robot behavior with fractals
-<img src="https://fractalrobots.github.io/img/robot2.jpg" width="600">
+<img src="https://fractalrobots.github.io/img/robot2.jpg" width="700">
 
 # Requirements:
 
