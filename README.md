@@ -1,6 +1,6 @@
 # Requirements
 
-
+<img src="https://fractalrobots.github.io/img/robot2.jpg" width="600">
 
 In order to run this code you'll need to install [voxcraft-sim](https://voxcraft.github.io/design).
 
