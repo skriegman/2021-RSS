@@ -1,6 +1,7 @@
-# Requirements
-
+# Scale invariant robot behavior with fractals
 <img src="https://fractalrobots.github.io/img/robot2.jpg" width="600">
+
+# Requirements:
 
 In order to run this code you'll need to install [voxcraft-sim](https://voxcraft.github.io/design).
 
